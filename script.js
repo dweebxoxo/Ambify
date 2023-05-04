@@ -43,8 +43,20 @@ function playpause3() {
     }
 }
 
-// var sound4 = new Audio();
-// sound4.src = "Task-Audios/Audios/chilren_audience.wav"
+var sound4 = new Audio();
+sound4.src = "/Task-Audios/Audios/chilren_audience.wav"
+
+var PlayPauseBTN4 = document.getElementById('PlayPauseBTN4');
+var count = 0;
+function playpause4() {
+    if (count == 0) {
+        count = 1;
+        sound4.play();
+    } else {
+        count = 0;
+        sound4.pause();
+    }
+}
 
 // var sound5 = new Audio();
 // sound5.src = "Task-Audios/Audios/city_road.wav"
