@@ -83,9 +83,9 @@ body {
     white-space: nowrap;
     padding: 10px 15px;
     border-radius: 7px;
-    /* visibility: hidden; */
-opacity: 1;
-transition: opacity 0.5s;
+    visibility: hidden;
+    opacity: 1;
+    transition: opacity 0.5s;
 }
 
 #tooltipText::before {
@@ -102,9 +102,8 @@ transition: opacity 0.5s;
     top: -130%;
     visibility: visible;
     opacity: 1;
-}
+} */
 
-*/
 /* .tog:active {
     border-radius: 50%;
     transition: 0.1s;
