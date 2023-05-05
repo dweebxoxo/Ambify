@@ -20,11 +20,12 @@ body {
 .row-outer {
     width: 500px;
     height: 500px;
-    background-color: #3883c1;
-    padding-top: 60px;
+    background-color: #f0cd1c;
+    padding-top: 55px;
     border-radius: 20px;
     justify-content: center;
     align-items: center;
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.1);
 }
 
 .row-inner {
@@ -36,8 +37,8 @@ body {
 
 .row-inner-text {
 
-    color: #fff;
-    padding-top: 9px;
+    color: #183153;
+    padding-top: 6px;
     display: flex;
     justify-content: center;
     align-items: center;
