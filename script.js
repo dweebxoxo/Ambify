@@ -1,5 +1,5 @@
 var sound1 = new Audio();
-sound1.src = "/Task-Audios/src/ambulance sound.wav"
+sound1.src = "/Ambify/src/ambulance sound.wav"
 
 var PlayPauseBTN1 = document.getElementById('PlayPauseBTN1');
 var count = 0;
@@ -15,7 +15,7 @@ function playpause1() {
 }
 
 var sound2 = new Audio();
-sound2.src = "/Task-Audios/src/birds.wav"
+sound2.src = "/Ambify/src/birds.wav"
 
 var PlayPauseBTN2 = document.getElementById('PlayPauseBTN2');
 var count = 0;
@@ -31,7 +31,7 @@ function playpause2() {
 }
 
 var sound3 = new Audio();
-sound3.src = "/Task-Audios/src/camp_fire.wav"
+sound3.src = "/Ambify/src/camp_fire.wav"
 
 var PlayPauseBTN3 = document.getElementById('PlayPauseBTN3');
 var count = 0;
@@ -47,7 +47,7 @@ function playpause3() {
 }
 
 var sound4 = new Audio();
-sound4.src = "/Task-Audios/src/chilren_audience.wav"
+sound4.src = "/Ambify/src/chilren_audience.wav"
 
 var PlayPauseBTN4 = document.getElementById('PlayPauseBTN4');
 var count = 0;
@@ -63,7 +63,7 @@ function playpause4() {
 }
 
 var sound5 = new Audio();
-sound5.src = "/Task-Audios/src/city_road.wav"
+sound5.src = "/Ambify/src/city_road.wav"
 
 var PlayPauseBTN5 = document.getElementById('PlayPauseBTN5');
 var count = 0;
@@ -79,7 +79,7 @@ function playpause5() {
 }
 
 var sound6 = new Audio();
-sound6.src = "/Task-Audios/src/clock_timer.wav"
+sound6.src = "/Ambify/src/clock_timer.wav"
 
 var PlayPauseBTN6 = document.getElementById('PlayPauseBTN6');
 var count = 0;
@@ -95,7 +95,7 @@ function playpause6() {
 }
 
 var sound7 = new Audio();
-sound7.src = "/Task-Audios/src/rain.mp3"
+sound7.src = "/Ambify/src/rain.mp3"
 
 var PlayPauseBTN7 = document.getElementById('PlayPauseBTN7');
 var count = 0;
@@ -111,7 +111,7 @@ function playpause7() {
 }
 
 var sound8 = new Audio();
-sound8.src = "/Task-Audios/src/water_waves.wav"
+sound8.src = "/Ambify/src/water_waves.wav"
 
 var PlayPauseBTN8 = document.getElementById('PlayPauseBTN8');
 var count = 0;
@@ -127,7 +127,7 @@ function playpause8() {
 }
 
 var sound9 = new Audio();
-sound9.src = "/Task-Audios/src/wind.wav"
+sound9.src = "/Ambify/src/wind.wav"
 
 var PlayPauseBTN9 = document.getElementById('PlayPauseBTN9');
 var count = 0;
