@@ -7,6 +7,7 @@ function playpause1() {
     if (count == 0) {
         count = 1;
         sound1.play();
+        sound1.loop = true;
     } else {
         count = 0;
         sound1.pause();
@@ -22,6 +23,7 @@ function playpause2() {
     if (count == 0) {
         count = 1;
         sound2.play();
+        sound2.loop = true;
     } else {
         count = 0;
         sound2.pause();
@@ -37,6 +39,7 @@ function playpause3() {
     if (count == 0) {
         count = 1;
         sound3.play();
+        sound3.loop = true;
     } else {
         count = 0;
         sound3.pause();
@@ -52,6 +55,7 @@ function playpause4() {
     if (count == 0) {
         count = 1;
         sound4.play();
+        sound4.loop = true;
     } else {
         count = 0;
         sound4.pause();
@@ -67,6 +71,7 @@ function playpause5() {
     if (count == 0) {
         count = 1;
         sound5.play();
+        sound5.loop = true;
     } else {
         count = 0;
         sound5.pause();
@@ -82,6 +87,7 @@ function playpause6() {
     if (count == 0) {
         count = 1;
         sound6.play();
+        sound6.loop = true;
     } else {
         count = 0;
         sound6.pause();
@@ -97,6 +103,7 @@ function playpause7() {
     if (count == 0) {
         count = 1;
         sound7.play();
+        sound7.loop = true;
     } else {
         count = 0;
         sound7.pause();
@@ -112,6 +119,7 @@ function playpause8() {
     if (count == 0) {
         count = 1;
         sound8.play();
+        sound8.loop = true;
     } else {
         count = 0;
         sound8.pause();
@@ -127,6 +135,7 @@ function playpause9() {
     if (count == 0) {
         count = 1;
         sound9.play();
+        sound9.loop = true;
     } else {
         count = 0;
         sound9.pause();
